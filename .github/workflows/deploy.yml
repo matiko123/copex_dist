@@ -17,8 +17,8 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@v4
         with:
           server: ftp.abooderp.com
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
+          username: ${{ secrets.COPEX_ERP_DIST_USERNAME }}
+          password: ${{ secrets.COPEX_ERP_DIST_PASSWORD }}
           local-dir: dist
           server-dir: /
           port: 21
