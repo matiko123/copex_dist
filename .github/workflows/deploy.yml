@@ -19,6 +19,6 @@ jobs:
           username: ${{ secrets.COPEX_ERP_DIST_USERNAME }}
           password: ${{ secrets.COPEX_ERP_DIST_PASSWORD }}
           local-dir: dist/
-          server-dir: /
+          server-dir: /dist/
           port: 21
           protocol: ftp
