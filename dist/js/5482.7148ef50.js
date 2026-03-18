@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkcork_vue3"]=self["webpackChunkcork_vue3"]||[]).push([[5482],{65482:function(e,n,r){r.r(n),r.d(n,{default:function(){return l}});var t=r(66252);const c={class:"text-center p-5"},s=(0,t._)("div",{class:"container p-5 card"},[(0,t._)("h3",{class:"text-warning"},"Module Testing Page")],-1),a=[s];function u(e,n){return(0,t.wg)(),(0,t.iD)("div",c,a)}var i=r(83744);const o={},d=(0,i.Z)(o,[["render",u]]);var l=d}}]);
+//# sourceMappingURL=5482.7148ef50.js.map
